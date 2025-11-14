@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alyna313
+- 👋 Hi, I’m @Alina313
 - 👀 I’m interested in coding and writing
 - 🌱 I’m currently learning Web development.
 - 💞️ I’m looking to collaborate on ...
